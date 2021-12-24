@@ -3,4 +3,4 @@
 
 # 中国用户 China Users
 
-当前加速域名 [qireader.cn](https://www.qireader.cn)
+当前加速域名 [qireader.com.cn](https://www.qireader.com.cn)
