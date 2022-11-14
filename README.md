@@ -1,10 +1,12 @@
 # qireader
-[qireader.com](https://www.qireader.com) - The modern RSS Feed Reader Web App
+[qireader.com](https://www.qireader.com) - A modern RSS reader for the web 
 
 ![Screenshot](screenshot.en.png)
 
 
-# 中国用户 China Users
+# QiReader - 优雅的在线 RSS 阅读器
+
+## 中国用户
 
 当前加速域名 [qireader.com.cn](https://www.qireader.com.cn)
 
