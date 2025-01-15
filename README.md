@@ -1,5 +1,8 @@
-# qireader
-[qireader.com](https://www.qireader.com) - A modern RSS reader for the web 
+# Qi Reader
+
+[qireader.com](https://www.qireader.com) - A modern RSS Reader for the Web
+
+[Change Log](CHANGELOG.md)
 
 ![Screenshot](screenshot.en.png)
 
@@ -10,5 +13,5 @@
 
 当前加速域名 [qireader.com.cn](https://www.qireader.com.cn)
 
-[更新记录](CHANGELOG.md)
+[更新记录](CHANGELOG-zh.md)
 
