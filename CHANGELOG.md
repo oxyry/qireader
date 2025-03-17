@@ -1,3 +1,8 @@
+# 2015-03-17
+
+- Added a new set of themes.
+- Updated the list of article fonts.
+
 # 2015-01-15
 
 - Added support for sorting articles from oldest to newest.
