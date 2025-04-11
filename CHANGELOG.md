@@ -1,9 +1,14 @@
-# 2015-03-17
+# 2025-04-11
+
+- Added functionality to text-to-speech.
+- Added support for Podcast feeds.
+
+# 2025-03-17
 
 - Added a new set of themes.
 - Updated the list of article fonts.
 
-# 2015-01-15
+# 2025-01-15
 
 - Added support for sorting articles from oldest to newest.
 - Added support for automatically marking articles as read when scrolling out of view.
