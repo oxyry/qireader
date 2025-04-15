@@ -1,3 +1,7 @@
+# 2025-04-15
+
+- Added support for E-Ink Displays.
+
 # 2025-04-11
 
 - Added functionality to text-to-speech.
