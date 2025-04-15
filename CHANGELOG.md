@@ -1,6 +1,7 @@
 # 2025-04-15
 
 - Added support for E-Ink Displays.
+- Added compatibility with the Amazon Kindle browser.
 
 # 2025-04-11
 
