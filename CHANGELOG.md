@@ -1,3 +1,7 @@
+# 2025-06-15
+
+- Added option to hide read feeds in subscription list.
+
 # 2025-04-15
 
 - Added support for E-Ink Displays.
