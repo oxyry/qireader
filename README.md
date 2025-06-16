@@ -4,7 +4,7 @@
 
 [Change Log](CHANGELOG.md)
 
-![Screenshot](screenshot.en.png)
+![Screenshot](screenshot.desktop.en.png)
 
 
 # QiReader - 优雅的在线 RSS 阅读器
