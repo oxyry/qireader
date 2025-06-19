@@ -1,3 +1,7 @@
+# 2025-06-19
+
+- When the “Mark as Read on Scroll” option is turned on for the article list, clicking on an article will automatically mark all the articles above it as read.
+
 # 2025-06-15
 
 - Added option to hide read feeds in subscription list.
