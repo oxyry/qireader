@@ -1,3 +1,7 @@
+# 2025-06-25
+
+- Fixed some text formatting issues with Kindle Push.
+
 # 2025-06-19
 
 - When the “Mark as Read on Scroll” option is turned on for the article list, clicking on an article will automatically mark all the articles above it as read.
