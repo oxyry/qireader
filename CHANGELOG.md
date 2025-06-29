@@ -1,3 +1,7 @@
+# 2025-06-29
+
+- Added the ability to jump to the next article by pressing space when scrolling to the bottom in the article reading view.
+  
 # 2025-06-25
 
 - Fixed some text formatting issues with Kindle Push.
