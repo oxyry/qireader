@@ -45,3 +45,9 @@
 - Added support for sorting articles from oldest to newest.
 - Added support for automatically marking articles as read when scrolling out of view.
 - The Reading Toolbar now remains visible by default. Auto-hide can be enabled in the preferences.
+
+...
+
+# 2022-02-18
+
+🎉 App launched!
