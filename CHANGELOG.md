@@ -1,3 +1,7 @@
+# 2026-01-15
+
+- Feeds from the official [RSSHub](https://docs.rsshub.app/) instance will be automatically redirected to the QiReader private instance during fetching.
+
 # 2025-11-29
 
 - Article List: Added grid view.
