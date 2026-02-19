@@ -1,3 +1,7 @@
+# 2026-02-19
+
+- Fixed ePUB file compatibility for non-Kindle devices.
+
 # 2026-01-15
 
 - Feeds from the official [RSSHub](https://docs.rsshub.app/) instance will be automatically redirected to the QiReader private instance during fetching.
