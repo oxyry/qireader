@@ -1,3 +1,7 @@
+# 2026-02-19
+
+- 修复 ePUB 文件对非 Kindle 设备的兼容性。
+
 # 2026-01-15
 
 - 对来自 [RSSHub](https://docs.rsshub.app/) 官方实例的订阅源（域名部分为 rsshub.app）在抓取时自动导向 QiReader 私有实例。
