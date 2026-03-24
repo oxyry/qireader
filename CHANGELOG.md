@@ -1,4 +1,9 @@
-# 2026-02-19
+# 2026-03-24
+
+- Fixed an issue where the “Unread” indicator did not appear when sorting the article list from oldest to newest.
+- Fixed an issue where the bottom items in the E-Ink theme's feed list were obscured by the toolbar.
+
+- # 2026-02-19
 
 - Fixed ePUB file compatibility for non-Kindle devices.
 
