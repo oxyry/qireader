@@ -1,3 +1,7 @@
+# 2026-04-02
+
+- The “Next Feed” action skips folders that are currently expanded.
+
 # 2026-03-24
 
 - Fixed an issue where the “Unread” indicator did not appear when sorting the article list from oldest to newest.
