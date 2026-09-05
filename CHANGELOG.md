@@ -1,3 +1,7 @@
+# 2026-09-05
+
+- Fixed ePub compatibility issues with Kindle delivery.
+
 # 2026-04-02
 
 - The “Next Feed” action skips folders that are currently expanded.
